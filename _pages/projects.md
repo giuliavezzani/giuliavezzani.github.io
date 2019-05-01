@@ -4,6 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
 ## Superquadric object modeling and grasping
 <html>
 <body>
