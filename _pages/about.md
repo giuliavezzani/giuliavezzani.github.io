@@ -1,5 +1,6 @@
 ---
 layout: home
+class: wide
 permalink: /
 title: ""
 excerpt: "About me"
