@@ -10,7 +10,9 @@ locale                   : "en-US"
 title                    : "Giulia Vezzani"
 title_separator          : "-"
 name                     : &name "Giulia Vezzani"
-description              : &description ""
+description              : &description "I'm a Postdoctoral Research at the iCub Facility of the Istituto Italiano di Tecnologia (IIT) working in the Humanoid Sensing and Perception team, leaded by Lorenzo Natale. My main interests lie in perception for autonomous robotic manipulation. I recently got interested
+                           in Deep Reinforcement Learning, in that I believe that combining classical approaches with the data-driven approaches could lead to considerable improvements in robotic manipulation.
+                           I received my Ph. D. in Advanced and Humanoid Roboitcs from IIT and University of Genoa, supervised by Lorenzo Natale and Ugo Pattacomo. In the Spring semester 2018, I was a visiting scholar at Berkeley Artificial Intelligence Research (BAIR) of UC Berkeley, under the supervision of Pieter Abbeel."
 url                      : https://giuliavezzani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "giuliavezzani/giuliavezzani.github.io"

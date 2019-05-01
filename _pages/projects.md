@@ -9,8 +9,7 @@ author_profile: true
 <html>
 <body>
   <p>
-
-<iframe width="150" src="https://www.youtube.com/watch?v=dfYdBQ-mBJQ&feature=youtu.be">
+<iframe width="200" src="https://www.youtube.com/embed/dfYdBQ-mBJQ">
 </iframe>
   </p>
 </body>
@@ -21,7 +20,7 @@ author_profile: true
 <body>
 <p>
 
-<iframe width="150" src="https://www.youtube.com/watch?v=be27-FGU-Sk">
+<iframe width="200" src="https://www.youtube.com/embed/be27-FGU-Sk">
 </iframe>
 </p>
 </body>
