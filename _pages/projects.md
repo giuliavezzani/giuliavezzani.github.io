@@ -12,7 +12,7 @@ More information coming soon
 <html>
 <body>
   <p align="center">
-<iframe width="100" height="100" src="https://www.youtube.com/embed/dfYdBQ-mBJQ">
+<iframe width="100" height="50" src="https://www.youtube.com/embed/dfYdBQ-mBJQ">
 </iframe>
   </p>
 </body>
@@ -23,7 +23,7 @@ More information coming soon
 <body>
 <p align="center">
 
-<iframe width="100" height="100" src="https://www.youtube.com/embed/be27-FGU-Sk">
+<iframe width="100" height="50" src="https://www.youtube.com/embed/be27-FGU-Sk">
 </iframe>
 </p>
 </body>
