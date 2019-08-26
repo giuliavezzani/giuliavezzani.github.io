@@ -56,11 +56,12 @@ Making`, `Motivation`
 ---
 
 # PhD in Advanced and Humanoid Robotics @ Istituto Italiano di Tecnologia
-I got my PhD in Advanced and Humanoid Robotics on April 2019 with the dissertation of the Thesis entitled _Sense, Think, Grasp: A study on visual and tactile information processing for autonomous manopulation_, where I  proposed possible solutions to some key components of autonomous manipulation, focusing in particular on the perception problem and testing the developed approaches on the humanoid robotic platform iCub. The main contributions of my PhD thesis consists of:
-- an algorithm for modeling and grasping unknown objects with superquadrics function;
-- a pipeline for executing the handover task with the iCub humanoid robot;
-- a tactile localization and recognition algorithm, based on the Unscented Particle Filter;
-- a novel exploration strategy for Deep Reinforcement Learning algorithms.
+I got my PhD in Advanced and Humanoid Robotics on April 2019 with the dissertation of the Thesis entitled _Sense, Think, Grasp: A study on visual and tactile information processing for autonomous manopulation_, where I  proposed possible solutions to some key components of autonomous manipulation, focusing in particular on the perception problem and testing the developed approaches on the humanoid robotic platform iCub.
+The main contributions of my PhD thesis consists of:
+- an algorithm for **modeling** and **grasping** unknown objects with superquadrics function;
+- a pipeline for executing the **handover task** with the iCub humanoid robot;
+- a **tactile localization and recognition** algorithm, based on the Unscented Particle Filter;
+- a novel **exploration strategy for Deep Reinforcement Learning** algorithms.
 
 
 
