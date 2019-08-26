@@ -22,7 +22,7 @@ Demonstrations](https://sites.google.com/view/deeprl-dexterous-manipulation), V.
  on Humanoid Robotics, pp. 256 - 263, Cancun, Mexico, 2016.  
 
 
-  You can also find my articles on <u><a href=https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it>my Google Scholar profile</a>.</u>
+  You can also find my articles on [my Google Scholar profile](https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it).
 
 
 {% include base_path %}

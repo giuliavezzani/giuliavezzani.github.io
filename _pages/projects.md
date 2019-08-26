@@ -4,12 +4,22 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+## GRASPA 1.0: Graspa is a Robot Arm graSping Performance benchmArk
+More information coming soon
+<!-- <html>
+<body>
+  <p>
+<iframe width="100" src="https://www.youtube.com/embed/dfYdBQ-mBJQ">
+</iframe>
+  </p>
+</body>
+</html> -->
 
 ## Superquadric object modeling and grasping
 <html>
 <body>
-  <p>
-<iframe width="200" src="https://www.youtube.com/embed/dfYdBQ-mBJQ">
+  <p align="center">
+<iframe width="100" src="https://www.youtube.com/embed/dfYdBQ-mBJQ">
 </iframe>
   </p>
 </body>
@@ -18,9 +28,9 @@ author_profile: true
 ## Bi-manual handover
 <html>
 <body>
-<p>
+<p align="center">
 
-<iframe width="200" src="https://www.youtube.com/embed/be27-FGU-Sk">
+<iframe width="100" src="https://www.youtube.com/embed/be27-FGU-Sk">
 </iframe>
 </p>
 </body>
