@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- GRASPA 1.0: GRASPA is a Robot Arm graSping Performance benchmArk, F. Bottarel*, G. Vezzani*, U. Pattacini, L. Natale, submitted to RA-L Special Issue on Benchmarking Protocols for Robotic Manipulation.
--  Magnetic 3-axis Soft and Sensitive Fingertip Sensors Integration for the iCub Humanoid Robot,  A. C. Holgado, N. Piga, T. Pradhono Tomo, G. Vezzani, A. Schmitz, L. Natale, S. Sugano, IEEE International Conference on Humanoid Robotics, 2019.
+- [GRASPA 1.0: GRASPA is a Robot Arm graSping Performance benchmArk](), F. Bottarel*, G. Vezzani*, U. Pattacini, L. Natale, submitted to RA-L Special Issue on Benchmarking Protocols for Robotic Manipulation.
+-  [Magnetic 3-axis Soft and Sensitive Fingertip Sensors Integration for the iCub Humanoid Robot](),  A. C. Holgado, N. Piga, T. Pradhono Tomo, G. Vezzani, A. Schmitz, L. Natale, S. Sugano, IEEE International Conference on Humanoid Robotics, 2019.
 - [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and
 Demonstrations](https://sites.google.com/view/deeprl-dexterous-manipulation), V. Kumar, A. Rajeswaran, A. Gupta, G. Vezzani, E. Todorov, S. Levine,
  Robotics: Science and Systems (RSS), 2018.
