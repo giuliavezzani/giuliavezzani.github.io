@@ -8,7 +8,7 @@ author_profile: true
 <html>
 <body>
   <p align="center">
-<iframe width="80" height="50" src="https://youtu.be/wUBHQQddJr0">
+<iframe width="80" height="50" src="https://www.youtube.com/embed/wUBHQQddJr0">
 </iframe>
   </p>
 </body>
