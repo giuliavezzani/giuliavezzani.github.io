@@ -9,9 +9,9 @@ author_profile: true
 
 Call for papers are now open for our workshop "Different Approaches, the Same Goal: Autonomous Object Manipulation" at the 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019).
 
-Submission deadline: September 22nd.
+Submission deadline: **September 22nd**.
 
-More information on the workshop website: https://manipulation-iros-workshop.github.io/
+More information on [the workshop website](https://manipulation-iros-workshop.github.io/)
 
 # Our IROS 2019 Workshop has been accepted
 
