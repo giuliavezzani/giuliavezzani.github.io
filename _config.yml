@@ -89,7 +89,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=Zlpuln8AAAAJ&hl=it"
-  email            :  giulia.vezzani@iit.it
+  email            :  vzzgli@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -183,6 +183,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  media:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -194,16 +197,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+    #  path: ""
+     # type: posts
+    #values:
+     # layout: single
+     # author_profile: true
+     # read_time: true
+     # comments: true
+     # share: true
+     # related: true
   # _pages
   - scope:
       path: ""
