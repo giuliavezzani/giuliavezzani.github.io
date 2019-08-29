@@ -5,7 +5,15 @@ permalink: /projects/
 author_profile: true
 ---
 ## GRASPA 1.0: Graspa is a Robot Arm graSping Performance benchmArk
-More information coming soon
+<html>
+<body>
+  <p align="center">
+<iframe width="80" height="50" src="https://youtu.be/wUBHQQddJr0">
+</iframe>
+  </p>
+</body>
+</html>
+
 
 
 ## Superquadric object modeling and grasping
